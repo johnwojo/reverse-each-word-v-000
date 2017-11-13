@@ -4,6 +4,4 @@ def reverse_each_word(sentence)
     word.reverse!
   end
   setence = cat.join
-
-end
 end
