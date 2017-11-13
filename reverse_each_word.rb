@@ -5,3 +5,4 @@ array = []
     array << word.reverse
     array.join
 end
+end
